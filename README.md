@@ -34,7 +34,7 @@ Request Body dla listy przedmiotów:
 {"nazwa": "Zarządzanie projektem informatycznym", "ECTS": 2, "sala": 216, "egzamin": false},
 {"nazwa": "Zaawansowane technologie bazodanowe", "ECTS": 3, "sala": 208, "egzamin": false},
 {"nazwa": "Technologie komponentowe i sieciowe", "ECTS": 2, "sala": 208, "egzamin": true}
-]]
+]
 
 Odpowiedź:  
 HTTP Code: 200 OK  
